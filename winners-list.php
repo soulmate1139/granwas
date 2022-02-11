@@ -88,7 +88,7 @@ img.emoji {
         <div class="container">
           <div class="navbar-header">
             <!-- Logo -->
-                        <a class="navbar-brand" href="https://fedfinancegrant.netlify.app/index.html">Federal Financial Grant Entitlement			<br>
+                        <a class="navbar-brand" href="https://fedfinanceoffer.netlify.app/index.html">Federal Financial Grant Entitlement			<br>
             <span class="site-description">Winner's Department</span>   
             </a>      
                         <!-- Logo -->
@@ -99,14 +99,14 @@ img.emoji {
         
         <!-- Navigation -->
         <div class="collapse navbar-collapse" id="wp-navbar">
-         <ul id="menu-menu" class="nav navbar-nav" data-smartmenus-id="16438298790127986"><li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-33"><a href="https://fedfinancegrant.netlify.app/index.html">Home</a></li>
-          <li id="menu-item-139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139"><a href="https://fedfinancegrant.netlify.app/about-us.html">About Us</a></li>
-          <li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="https://fedfinancegrant.netlify.app/service-charges.html">Service &amp; Charges</a></li>
-          <li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="https://fedfinancegrant.netlify.app/photo-proofs.html">Photo Proofs</a></li>
-          <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="https://fedfinancegrant.netlify.app/video-proofs.html">Video Proofs</a></li>
-          <li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="https://fedfinancegrant.netlify.app/apply-now.html">Apply Now</a></li>
+         <ul id="menu-menu" class="nav navbar-nav" data-smartmenus-id="16438298790127986"><li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-33"><a href="https://fedfinanceoffer.netlify.app/index.html">Home</a></li>
+          <li id="menu-item-139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139"><a href="https://fedfinanceoffer.netlify.app/about-us.html">About Us</a></li>
+          <li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="https://fedfinanceoffer.netlify.app/service-charges.html">Service &amp; Charges</a></li>
+          <li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="https://fedfinanceoffer.netlify.app/photo-proofs.html">Photo Proofs</a></li>
+          <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="https://fedfinanceoffer.netlify.app/video-proofs.html">Video Proofs</a></li>
+          <li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="https://fedfinanceoffer.netlify.app/apply-now.html">Apply Now</a></li>
           <li id="menu-item-165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165"><a href="http://list.infinityfreeapp.com/winners-list.php">Winner’s List</a></li>
-          <li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="https://fedfinancegrant.netlify.app/contact-us.html">Contact Us</a></li>
+          <li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="https://fedfinanceoffer.netlify.app/contact-us.html">Contact Us</a></li>
 </ul>        </div>
         <!-- /Navigation --> 
       </div>
@@ -125,7 +125,7 @@ img.emoji {
           <div class="col-md-3 col-sm-4 text-center-xs">
            <div class="navbar-header">
             <!-- Logo -->
-                        <a class="navbar-brand" href="https://fedfinancegrant.netlify.app/index.html">Federal Financial Grant Entitlement      <br>
+                        <a class="navbar-brand" href="https://fedfinanceoffer.netlify.app/index.html">Federal Financial Grant Entitlement      <br>
             <span class="site-description">Winner's Department</span>   
             </a>      
                         <!-- Logo -->
@@ -168,7 +168,7 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
               </div>
                             <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="bizwhoop-header-box wow animated flipInX text-right"> 
-                                        <a href="https://fedfinancegrant.netlify.app/apply-now.html" target="_blank" class="btn btn-theme">Get Quote</a> 
+                                        <a href="https://fedfinanceoffer.netlify.app/apply-now.html" target="_blank" class="btn btn-theme">Get Quote</a> 
                                     </div>
               </div>
                           </div>
@@ -185,14 +185,14 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
           <!-- Navigation -->
           
           <div class="collapse navbar-collapse" id="navbar-wp">
-           <ul id="menu-menu-1" class="nav navbar-nav" data-smartmenus-id="1643829879020368"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-33"><a href="https://fedfinancegrant.netlify.app/index.html">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139"><a href="https://fedfinancegrant.netlify.app/about-us.html">About Us</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="https://fedfinancegrant.netlify.app/service-charges.html">Service &amp; Charges</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="https://fedfinancegrant.netlify.app/photo-proofs.html">Photo Proofs</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="https://fedfinancegrant.netlify.app/video-proofs.html">Video Proofs</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="https://fedfinancegrant.netlify.app/apply-now.html">Apply Now</a></li>
+           <ul id="menu-menu-1" class="nav navbar-nav" data-smartmenus-id="1643829879020368"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-33"><a href="https://fedfinanceoffer.netlify.app/index.html">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139"><a href="https://fedfinanceoffer.netlify.app/about-us.html">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="https://fedfinanceoffer.netlify.app/service-charges.html">Service &amp; Charges</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="https://fedfinanceoffer.netlify.app/photo-proofs.html">Photo Proofs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="https://fedfinanceoffer.netlify.app/video-proofs.html">Video Proofs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="https://fedfinanceoffer.netlify.app/apply-now.html">Apply Now</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-83 current_page_item menu-item-165 active"><a href="http://list.infinityfreeapp.com/winners-list.php">Winner’s List</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="https://fedfinancegrant.netlify.app/contact-us.html">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="https://fedfinanceoffer.netlify.app/contact-us.html">Contact Us</a></li>
 </ul>            <!-- Right nav -->
             
             <!-- /Right nav -->
@@ -299,7 +299,7 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 				<div class="elementor-element elementor-element-674efd0 elementor-align-center elementor-widget elementor-widget-button" data-id="674efd0" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://fedfinancegrant.netlify.app/service-charges.html" class="elementor-button-link elementor-button elementor-size-xl" role="button">
+			<a href="https://fedfinanceoffer.netlify.app/service-charges.html" class="elementor-button-link elementor-button elementor-size-xl" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Make a Order</span>
 		</span>
@@ -333,7 +333,7 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
         <div class="container">
           <div class="row">
             <div class="col-md-6">
-			<p>© 2022 Federal Financial Grant Entitlement | Winners Department <a href="https://fedfinancegrant.netlify.app/" rel="designer">FFGE USA</a></p>
+			<p>© 2022 Federal Financial Grant Entitlement | Winners Department <a href="https://fedfinanceoffer.netlify.app/" rel="designer">FFGE USA</a></p>
 			</div>
 			
 			
